@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-source ../../lib.sh
 
 bot "Setting Up Visual Studio Code..."
 
